@@ -30,5 +30,5 @@ Github link https://github.com/RushabhJ24/Android_AppDev.git
 ## 🚀 About Me
 Here's a link to my \
 Github https://github.com/Abhishek-Yadav11/Paint-Application  \
-linkDin https://www.linkedin.com/in/abhishek-yadav-854135253 
+linkedin https://www.linkedin.com/in/abhishek-yadav-854135253 
 
